@@ -1,0 +1,17 @@
+.list__item {
+	width: 100%;
+	text-decoration: none;
+	color: #001;
+	display: flex;
+	align-items: center;
+}
+.list__item:hover {
+	color: #1d9bf0;
+}
+.item__icon {
+	margin: 10px 20px 10px 0px;
+}
+
+.active {
+	color: #1D9BF0;
+}
